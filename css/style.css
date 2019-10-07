@@ -1,0 +1,107 @@
+body{
+	background-color: #F790F4;
+	color: 	black;
+	font-family: 'Abel', sans-serif;
+
+
+}
+
+
+p{
+	font-size: 30px;
+}
+
+img{
+	height: 60%;
+	width: 60%;
+}
+
+h1{
+	font-family: 'Abel', sans-serif;
+	font-size: 90px;
+	margin: 0px;
+	margin-left: 300px;
+	margin-right:300px;
+	margin-top: 50px;
+	color: lime;
+	background-color:black;
+	padding:20px;
+	padding-left:45px;
+	padding-right:0px;
+}
+h2{
+	font-family: 'Abel', sans-serif;
+
+
+	font-size: 50px;
+	margin: 0px;
+	margin-left: 0px;
+	color: lime;
+}
+
+.naruto{
+	color: black;
+	font-family: 'Abel', sans-serif;
+
+
+	border-radius: 20%;
+
+}
+
+
+.sailormoon{
+	/*background-color: black;*/
+	color: white;
+	font-family: 'Abel', sans-serif;
+	margin-bottom:30px;
+	border-radius:20%;
+	height: 40%;
+	width: 40%;
+}
+
+.paragraph{
+	background-color: #F673EC;
+	color: #8013BE;
+}
+
+ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	/*width: 200px; */
+	overflow: hidden;
+	background-color:black;
+	position:fixed;
+}
+li{
+	float:left;
+}
+li a {
+	display:block;
+	color:lime;
+	text-align:center;
+	padding:8px 16px;
+	text-decoration: none;
+}
+li a:hover {
+	background-color:lime;
+	color: black;
+}
+.active {
+	background-color: white;
+}
+.paragraph{
+	width:800px;
+}
+
+.button{
+	background-color: green;
+	color: white;
+	border: none;
+	padding: 15px 15px;
+	text-align:center;
+	text-decoration: none;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
