@@ -1,14 +1,15 @@
 body{
-	background-color: #F790F4;
+	/*background-color: #F790F4;*/
+	background-image:url("pinkstars.gif");
 	color: 	black;
-	font-family: 'Abel', sans-serif;
+	font-family: courier new;
 
 
 }
 
 
 p{
-	font-size: 30px;
+	font-size: 20px;
 }
 
 img{
@@ -17,46 +18,28 @@ img{
 }
 
 h1{
-	font-family: 'Abel', sans-serif;
-	font-size: 90px;
-	margin: 0px;
-	margin-left: 300px;
+	font-family: courier new;
+	font-size: 35px;
+	color: #B80592;
+	margin-top: :30px;
+	margin-left:300px;
 	margin-right:300px;
-	margin-top: 50px;
-	color: lime;
-	background-color:black;
-	padding:20px;
-	padding-left:45px;
-	padding-right:0px;
 }
 h2{
-	font-family: 'Abel', sans-serif;
-
-
-	font-size: 50px;
-	margin: 0px;
-	margin-left: 0px;
-	color: lime;
+	font-family: courier new;
+	font-size: 25px;
+	color: #B80592;
+	margin-top: :0px;
+	margin-left:300px;
+	margin-right:300px;
 }
 
-.naruto{
+.myspace{
 	color: black;
-	font-family: 'Abel', sans-serif;
-
-
+	font-family: courier new;
+	color: #B80592;
 	border-radius: 20%;
-
-}
-
-
-.sailormoon{
-	/*background-color: black;*/
-	color: white;
-	font-family: 'Abel', sans-serif;
-	margin-bottom:30px;
-	border-radius:20%;
-	height: 40%;
-	width: 40%;
+	font-size: 25px;
 }
 
 .paragraph{
@@ -70,7 +53,7 @@ ul{
 	padding:0;
 	/*width: 200px; */
 	overflow: hidden;
-	background-color:black;
+	background-color:#F38CF8;
 	position:fixed;
 }
 li{
@@ -78,13 +61,13 @@ li{
 }
 li a {
 	display:block;
-	color:lime;
+	color:#B80592;
 	text-align:center;
 	padding:8px 16px;
 	text-decoration: none;
 }
 li a:hover {
-	background-color:lime;
+	background-color:white;
 	color: black;
 }
 .active {
